@@ -1,4 +1,4 @@
-<h1 align="center">Curso contruindo páginas para internet com Bootstrap</h1>
+<h1 align="center">Curso construindo páginas para internet com Bootstrap</h1>
 
 Projeto do curso de como criar páginas para internet com Bootstrap oferecido pela [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=FBAIQEAO9X "Digital Innovation One").
 
